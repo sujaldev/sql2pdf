@@ -2,6 +2,13 @@
 
 Convert SQL QUERIES to PDF or WORD
 
+# DEMO
+![DEMO](https://media.giphy.com/media/lcNODu9ACivbEVwpPt/giphy.gif)
+
+### Output
+![OUTPUT](https://media.giphy.com/media/XlGaG7WSqqRH9kJBJF/giphy.gif)
+
+
 ## How to run
 These commands are for `Linux` with Google Chrome installed.\
 Although it will work on `Windows` if the system has `Google Chrome`
