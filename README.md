@@ -3,7 +3,7 @@
 Convert SQL QUERIES to PDF or WORD
 
 # DEMO
-![DEMO](https://media.giphy.com/media/lcNODu9ACivbEVwpPt/giphy.gif)
+![DEMO](https://media.giphy.com/media/jtPHDaLlI0D937lYpP/giphy.gif)
 
 ### Output
 ![OUTPUT](https://media.giphy.com/media/XlGaG7WSqqRH9kJBJF/giphy.gif)
