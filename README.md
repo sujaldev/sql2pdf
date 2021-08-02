@@ -1,4 +1,4 @@
-# SCHOOL PROJECT
+# SQL2PDF
 
 Convert SQL QUERIES to PDF or WORD
 
